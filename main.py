@@ -1,3 +1,4 @@
+from test_module import test_number_to_pair, test_pair_to_number
 if __name__ == '__main__':
   test_number_to_pair(4, 'White', 'Brown')
   test_number_to_pair(5, 'White', 'Slate')
