@@ -1,5 +1,5 @@
 from Colors import MAJOR_COLORS, MINOR_COLORS
-from funtion import get_color_from_pair_number
+from cable_color import get_color_from_pair_number
  
 def build_reference_table():
   total = len(MAJOR_COLORS) * len(MINOR_COLORS)
