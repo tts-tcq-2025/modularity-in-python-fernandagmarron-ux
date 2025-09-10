@@ -1,3 +1,4 @@
+from Colors import MAJOR_COLORS, MINOR_COLORS
 def color_pair_to_string(major_color, minor_color):
   return f'{major_color} {minor_color}'
  
